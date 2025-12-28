@@ -1,0 +1,8 @@
+{
+  "environment": "production",
+  "convexUrl": "https://convex.cloud/your-instance",
+  "riskLimits": {
+    "maxPosition": 5,
+    "maxNotional": 50000
+  }
+}
